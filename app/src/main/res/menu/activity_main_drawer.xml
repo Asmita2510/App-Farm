@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_app_farm"
+            android:icon="@mipmap/shop_foreground"
+            android:title="App Farm" />
+
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@mipmap/my_account_foreground"
+            android:title="My Account" />
+        <item
+            android:id="@+id/nav_sign_out"
+            android:icon="@mipmap/sign_out_foreground"
+            android:title="Sign Out" />
+    </group>
+</menu>

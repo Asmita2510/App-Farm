@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "476709482514",
+    "project_id": "app-farm-e32ed",
+    "storage_bucket": "app-farm-e32ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476709482514:android:6ab4083474795ca0e5e8cb",
+        "android_client_info": {
+          "package_name": "com.example.appfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476709482514-b2ahnk0lmug0fqv44iiv8l69f0qjpn25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJC9wPEjWm6tGqwcf5ZD9UO4yTvJSZ0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476709482514-b2ahnk0lmug0fqv44iiv8l69f0qjpn25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
